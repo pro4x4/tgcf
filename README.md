@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 
 <p align="center">
-<a href = "https://github.com/pro4x4/tgcf" > <img src = "https://user-images.githubusercontent.com/66209958/115183360-3fa4d500-a0f9-11eb-9c0f-c5ed03a9ae17.png" alt = "tgcf logo"  width=120> </a>
+<a href = "https://github.com/aahnik/tgcf" > <img src = "https://user-images.githubusercontent.com/66209958/115183360-3fa4d500-a0f9-11eb-9c0f-c5ed03a9ae17.png" alt = "tgcf logo"  width=120> </a>
 </p>
 
 <h1 align="center"> tgcf </h1>
@@ -11,14 +11,14 @@ The ultimate tool to automate custom telegram message forwarding.
 </p>
 
 <p align="center">
-<a href="https://github.com/pro4x4/tgcf/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pro4x4/tgcf" alt="GitHub license"></a>
-<a href="https://github.com/pro4x4/tgcf/stargazers"><img src="https://img.shields.io/github/stars/pro4x4/tgcf?style=social" alt="GitHub stars"></a>
-<a href="https://github.com/pro4x4/tgcf/issues"><img src="https://img.shields.io/github/issues/pro4x4/tgcf" alt="GitHub issues"></a>
+<a href="https://github.com/aahnik/tgcf/blob/main/LICENSE"><img src="https://img.shields.io/github/license/aahnik/tgcf" alt="GitHub license"></a>
+<a href="https://github.com/aahnik/tgcf/stargazers"><img src="https://img.shields.io/github/stars/aahnik/tgcf?style=social" alt="GitHub stars"></a>
+<a href="https://github.com/aahnik/tgcf/issues"><img src="https://img.shields.io/github/issues/aahnik/tgcf" alt="GitHub issues"></a>
 <img src="https://img.shields.io/pypi/v/tgcf" alt="PyPI">
-<a href="https://twitter.com/intent/tweet?text=Wow:&amp;url=https%3A%2F%2Fgithub.com%2Fpro4x4%2Ftgcf"><img src="https://img.shields.io/twitter/url?style=social&amp;url=https%3A%2F%2Fgithub.com%2Fpro4x4%2Ftgcf" alt="Twitter"></a>
+<a href="https://twitter.com/intent/tweet?text=Wow:&amp;url=https%3A%2F%2Fgithub.com%2Faahnik%2Ftgcf"><img src="https://img.shields.io/twitter/url?style=social&amp;url=https%3A%2F%2Fgithub.com%2Faahnik%2Ftgcf" alt="Twitter"></a>
 </p>
 <p align="center">
-<a href="https://github.com/pro4x4/tgcf/actions/workflows/quality.yml"><img src="https://github.com/pro4x4/tgcf/actions/workflows/quality.yml/badge.svg" alt="Code Quality"></a>
+<a href="https://github.com/aahnik/tgcf/actions/workflows/quality.yml"><img src="https://github.com/aahnik/tgcf/actions/workflows/quality.yml/badge.svg" alt="Code Quality"></a>
 </p>
 <!-- markdownlint-enable -->
 
@@ -33,36 +33,36 @@ send a copy of the messages from source to destination chats.
 
     > A chat can be anything: a group, channel, person or even another bot.
 
-2. Supports two [modes](https://github.com/pro4x4/tgcf/wiki/Past-vs-Live-modes-explained)
+2. Supports two [modes](https://github.com/aahnik/tgcf/wiki/Past-vs-Live-modes-explained)
 of operation _past_ or _live_.
 
     > The past mode deals with all existing messages,
     > while the live mode is for upcoming ones.
 
-3. You may [login](https://github.com/pro4x4/tgcf/wiki/Login-with-a-bot-or-user-account)
+3. You may [login](https://github.com/aahnik/tgcf/wiki/Login-with-a-bot-or-user-account)
 with a _bot_ or an _user_ account.
 
     > Telegram imposes certain
-    [limitations](https://github.com/pro4x4/tgcf/wiki/Using-bot-accounts#limitations)
+    [limitations](https://github.com/aahnik/tgcf/wiki/Using-bot-accounts#limitations)
     on bot accounts.
     You may use an user account to perform the forwards if you wish.
 
 4. Perform custom manipulation on messages.
 
     > You can
-    [filter](https://github.com/pro4x4/tgcf/wiki/How-to-use-filters-%3F),
-    [format](https://github.com/pro4x4/tgcf/wiki/Format-text-before-sending-to-destination),
-    [replace](https://github.com/pro4x4/tgcf/wiki/Text-Replacement-feature-explained),
-    [watermark](https://github.com/pro4x4/tgcf/wiki/How-to-use--watermarking-%3F),
-    [ocr](https://github.com/pro4x4/tgcf/wiki/You-can-do-OCR)
+    [filter](https://github.com/aahnik/tgcf/wiki/How-to-use-filters-%3F),
+    [format](https://github.com/aahnik/tgcf/wiki/Format-text-before-sending-to-destination),
+    [replace](https://github.com/aahnik/tgcf/wiki/Text-Replacement-feature-explained),
+    [watermark](https://github.com/aahnik/tgcf/wiki/How-to-use--watermarking-%3F),
+    [ocr](https://github.com/aahnik/tgcf/wiki/You-can-do-OCR)
     and do whatever else you need !
 
-5. Detailed [wiki](https://github.com/pro4x4/tgcf/wiki) +
+5. Detailed [wiki](https://github.com/aahnik/tgcf/wiki) +
 Video tutorial.
     > You can also [get help](#getting-help) from the community.
 
 6. If you are a python developer, writing
-[plugins](https://github.com/pro4x4/tgcf/wiki/How-to-write-a-plugin-for-tgcf-%3F)
+[plugins](https://github.com/aahnik/tgcf/wiki/How-to-write-a-plugin-for-tgcf-%3F)
 for tgcf is like stealing candy from a baby.
     > Plugins modify the message before they are sent to the destination chat.
 
@@ -78,17 +78,17 @@ A youtube video is coming soon. [Subscribe](https://www.youtube.com/channel/UCcE
 ## Installation
 
 - If you are an **Windows** user, who is not familiar with the command line, the
-[Windows guide](https://github.com/pro4x4/tgcf/wiki/Run-tgcf-on-Windows)
+[Windows guide](https://github.com/aahnik/tgcf/wiki/Run-tgcf-on-Windows)
 is for you.
 
 - To install tgcf on **Android** (Termux), there exists an installer script,
 that allows you to install all dependencies by running just a single line command.
 Read the
-[guide for android](https://github.com/pro4x4/tgcf/wiki/Run-on-Android-using-Termux)
+[guide for android](https://github.com/aahnik/tgcf/wiki/Run-on-Android-using-Termux)
 to learn.
 
 - If you are familiar with **Docker**, you may read the
-[docker guide](https://github.com/pro4x4/tgcf/wiki/Install-and-run-using-docker)
+[docker guide](https://github.com/aahnik/tgcf/wiki/Install-and-run-using-docker)
 for an isolated installation.
 
 - Otherwise for **Linux/Mac**,
@@ -114,17 +114,17 @@ for an isolated installation.
 Configuring `tgcf` is easy. You just need two files in your present directory
 (from which tgcf is invoked).
 
-- [`.env`](https://github.com/pro4x4/tgcf/wiki/Environment-Variables)
+- [`.env`](https://github.com/aahnik/tgcf/wiki/Environment-Variables)
 : To define your environment variables easily.
 
-- [`tgcf.config.yml`](https://github.com/pro4x4/tgcf/wiki/How-to-configure-tgcf-%3F)
+- [`tgcf.config.yml`](https://github.com/aahnik/tgcf/wiki/How-to-configure-tgcf-%3F)
 : An `yaml` file to configure how `tgcf` behaves.
 
 In your terminal, just run `tgcf live` or `tgcf past` to start `tgcf`.
 It will prompt you to enter your phone no. or bot token, when you run it
 for the first time.
 
-For more details run `tgcf --help` or [read wiki](https://github.com/pro4x4/tgcf/wiki/CLI-Usage).
+For more details run `tgcf --help` or [read wiki](https://github.com/aahnik/tgcf/wiki/CLI-Usage).
 
 ## Deploy to Cloud
 
@@ -143,16 +143,16 @@ for a long time.
 
 You can enjoy smooth one-click deploys to the major cloud providers.
 
-- [Heroku](https://github.com/pro4x4/tgcf/wiki/Deploy-to-Heroku)
-- [Digital Ocean](https://github.com/pro4x4/tgcf/wiki/Deploy-to-Digital-Ocean)
-- [Gitpod](https://github.com/pro4x4/tgcf/wiki/Run-for-free-on-Gitpod")
-- [Python Anywhere](https://github.com/pro4x4/tgcf/wiki/Run-on-PythonAnywhere)
-- [Google Cloud Run](https://github.com/pro4x4/tgcf/wiki/Run-on-Google-Cloud)
-- [GitHub Actions](https://github.com/pro4x4/tgcf/wiki/Run-tgcf-in-past-mode-periodically)
+- [Heroku](https://github.com/aahnik/tgcf/wiki/Deploy-to-Heroku)
+- [Digital Ocean](https://github.com/aahnik/tgcf/wiki/Deploy-to-Digital-Ocean)
+- [Gitpod](https://github.com/aahnik/tgcf/wiki/Run-for-free-on-Gitpod")
+- [Python Anywhere](https://github.com/aahnik/tgcf/wiki/Run-on-PythonAnywhere)
+- [Google Cloud Run](https://github.com/aahnik/tgcf/wiki/Run-on-Google-Cloud)
+- [GitHub Actions](https://github.com/aahnik/tgcf/wiki/Run-tgcf-in-past-mode-periodically)
 
 ## Getting Help
 
-- First of all [read the wiki](https://github.com/pro4x4/tgcf/wiki)
+- First of all [read the wiki](https://github.com/aahnik/tgcf/wiki)
 and [watch the videos](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)
 to get started.
 
@@ -163,10 +163,10 @@ Try re-wording your query a few times before you give up.
 
 - If your question does not already exist,
 feel free to ask your questions in the
-[Discussion forum](https://github.com/pro4x4/tgcf/discussions/new).
+[Discussion forum](https://github.com/aahnik/tgcf/discussions/new).
 Please avoid duplicates.
 
-- For reporting bugs or requesting a new feature please use the [issue tracker](https://github.com/pro4x4/tgcf/issues/new)
+- For reporting bugs or requesting a new feature please use the [issue tracker](https://github.com/aahnik/tgcf/issues/new)
 of the repo.
 
 ## Contributing
